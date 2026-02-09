@@ -1,4 +1,2 @@
 Hello ITI
 GitHub
-edited from github
-edited from VS
