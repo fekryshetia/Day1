@@ -1,3 +1,4 @@
 Create GitHub account
 creat repo in githup
-link repos and manipulate with it
+create repos, link repos and manipulate with it
+create some files
